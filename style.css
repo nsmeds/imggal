@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    background-color: #e5ffff;
+    flex-direction: column;
+}
+
+header {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.gallery li {
+    padding: 2.5px 5px;
+}
+
+.gallery li img {
+    border-radius: 5px;
+}
