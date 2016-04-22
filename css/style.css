@@ -1,5 +1,6 @@
 body {
     display: flex;
+<<<<<<< 182d63f5f9a0172dd75bb5970a44fc76871a524b
     background-color: #e5ffff;
     background: -webkit-linear-gradient(hsla(200,90%,95%,1), hsla(200,90%,80%,1));
     background: linear-gradient(hsla(200,90%,95%,1), hsla(200,90%,80%,1));
@@ -79,19 +80,19 @@ footer a {
 
 @media (max-width: 648px) {
  
-    header {
-        margin: 20px 5% 0px 5%;
-        font-size: 1em;
-    }
+header {
+  margin: 20px 5% 0px 5%;
+  font-size: 1em;
+  }
     
-    .gallery {
-        flex-direction: column;
-        align-items: center;
-    }
+.gallery {
+  flex-direction: column;
+  align-items: center;
+  }
     
-    .gallery img {
-        width: 320px;
-        align-self: center;
-    }
+.gallery img {
+  width: 320px;
+  align-self: center;
+  }
     
 }
