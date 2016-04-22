@@ -2,6 +2,7 @@ body {
     display: flex;
     background-color: #e5ffff;
     background: -webkit-radial-gradient(circle, #627383, #384047);
+    background: radial-gradient(circle, #627383, #384047);
     flex-direction: column;
     font-family: 'Fjalla One', sans-serif;
     color: white;
