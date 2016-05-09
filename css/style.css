@@ -80,7 +80,10 @@ footer a {
 @media (max-width: 648px) {
  
 header {
-  margin: 20px 5% 0px 5%;
+  margin: 20px 10% 0px 10%;
+  align-self: center;
+  padding-left: 8px;
+  padding-right: 8px;
   font-size: 1em;
   }
     
