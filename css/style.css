@@ -1,6 +1,6 @@
 body {
     display: flex;
-    background: -webkit-linear-gradient(hsla(200,90%,95%,1), hsla(200,90%,80%,1));
+    background-color: hsla(200,90%,95%,1);
     background: linear-gradient(hsla(200,90%,95%,1), hsla(200,90%,80%,1));
     flex-direction: column;
     font-family: 'Lato', sans-serif;
@@ -79,7 +79,10 @@ footer a {
 @media (max-width: 648px) {
  
 header {
-  margin: 20px 5% 0px 5%;
+  margin: 20px 10% 0px 10%;
+  align-self: center;
+  padding-left: 8px;
+  padding-right: 8px;
   font-size: 1em;
   }
     
