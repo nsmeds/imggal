@@ -5,7 +5,7 @@ body {
     background: linear-gradient(hsla(200,90%,95%,1), hsla(200,90%,80%,1));
     flex-direction: column;
     font-family: 'Lato', sans-serif;
-    color: white;
+    color: #fff;
 }
 
 a,
@@ -34,12 +34,13 @@ h1 {
   font-size: 2em;
   margin-top: 0.3em;
   margin-bottom: 0.5em;
+  font-weight: 300;
 }
 
 h2 {
   font-size: 1.2em;
   margin-top: 0.5em;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .gallery {
